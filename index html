@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <!-- Google Search Console: replace CONTENT after adding the GitHub Pages URL as a property -->
+  <meta name="google-site-verification" content="PLACEHOLDER_REPLACE_AFTER_SEARCH_CONSOLE" />
+  <title>CGIOCEVEREST PRIVATE LIMITED</title>
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 40rem; margin: 2rem auto; padding: 0 1rem; line-height: 1.5; color: #111; }
+    h1 { font-size: 1.5rem; }
+    .muted { color: #555; font-size: 0.95rem; }
+  </style>
+</head>
+<body>
+  <h1>CGIOCEVEREST PRIVATE LIMITED</h1>
+  <p>CGIOCEVEREST builds sports science and athlete monitoring tools, including <strong>HanU-X</strong>.</p>
+  <p class="muted">Registered office: B, 21/03, Kamal Vihar, Rajendra Nagar, Raipur, Chhattisgarh 492001, India.</p>
+  <p class="muted">D-U-N-S: 644180274</p>
+</body>
+</html>
