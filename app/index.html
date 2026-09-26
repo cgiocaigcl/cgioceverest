@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>HanU-X</title>
+    <!-- PWA / iPhone "Add to Home Screen" -->
+    <link rel="manifest" href="./manifest.json" />
+    <link rel="apple-touch-icon" href="./apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta name="apple-mobile-web-app-title" content="HanU-X" />
+    <meta name="application-name" content="HanU-X" />
+    <meta name="format-detection" content="telephone=no" />
+    <style id="expo-reset">
+      html,
+      body {
+        height: 100%;
+        margin: 0;
+        background-color: #05070d;
+      }
+      body {
+        overflow: hidden;
+        -webkit-tap-highlight-color: transparent;
+        -webkit-text-size-adjust: 100%;
+      }
+      /* Phone-width column: full screen on phones, centred column on wide desktops. */
+      #root {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        flex: 1;
+        width: 100%;
+        max-width: 480px;
+        margin: 0 auto;
+        background-color: #0A0E1A;
+        box-sizing: border-box;
+        position: relative;
+        overflow: hidden;
+      }
+      @media (min-width: 520px) {
+        #root {
+          box-shadow: 0 0 0 1px #1c2333, 0 10px 40px rgba(0, 0, 0, 0.6);
+        }
+      }
+    </style>
+  <meta name="theme-color" content="#0A0E1A">
+<meta name="description" content="HanU-X athlete wellness and performance">
+<link rel="icon" href="/cgioceverest/app/favicon.ico" /></head>
+  <body>
+    <noscript>You need to enable JavaScript to run HanU-X.</noscript>
+    <div id="root"></div>
+  <script src="/cgioceverest/app/_expo/static/js/web/AppEntry-6d21ee742d23514761335746a87ffc6e.js" defer></script>
+</body>
+</html>
